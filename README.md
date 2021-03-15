@@ -8,3 +8,4 @@ with this web app user will be able to:
 /Front end : React JS ( React Hook)
 /Backend: NodeJS (express, bcryptjs,jsonwebtoken..)
 Database : MongoDB
+Heorku: https://morning-thicket-72171.herokuapp.com/register
