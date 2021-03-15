@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bunna:1234@contact-kepper.s0txx.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+    "jwtScrete": "Screte"
+}
